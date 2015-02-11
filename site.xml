@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+<feature url="features/me.karthy.plugin.feature_1.0.0.201410160104.jar" id="eclipse_restful_feature" version="0.1"/>
+</site>
