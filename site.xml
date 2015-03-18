@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-<feature url="features/me.karthy.plugin.feature_1.0.0.201410160104.jar" id="eclipse_restful_feature" version="0.1"/>
+   <feature url="features/me.karthy.php.restful.plugin.feature_1.0.0.201503161914.jar" id="me.karthy.php.restful.plugin.feature" version="1.0.0.201503161914" os="linux,macosx,win32"/>
 </site>
